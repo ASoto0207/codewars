@@ -1,2 +1,2 @@
 # codewars-
-here are all my code wars for this week and im trying to my best to improve. 
+here are all my code wars, i am  trying to my best to improve on all of the code wars. 
