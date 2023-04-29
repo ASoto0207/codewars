@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Angel Soto' COdeWars</h1>
+<h1 align="center">Hi 👋, Here are my CodeWars</h1>
 <h3 align="center">Here are some of the codewars I'm pushing everyday to improve my skill.</h3>
 
 - ⚡ Fun fact **I love a really good lasagna**
