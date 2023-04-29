@@ -1,2 +1,2 @@
 # codewars-
-here are all my code wars, i am  trying to my best to improve on all of the code wars. 
+<h2> Here are some of the codewars I'm pushing everyday to improve my skill. </h2>
